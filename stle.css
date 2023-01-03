@@ -1,0 +1,52 @@
+body{
+    background-image:url(../img/lad.png);
+    margin: 0%;
+}
+.container{
+    width: 100%;
+    border: 1px lavender;
+    overflow: hidden;
+
+    
+}
+
+
+.col-sm-4{
+    float: left;
+    width: 30%;
+    margin: 0%;
+}
+.col-sm-8{
+    float: left;
+    width: 70%;
+    margin: 0%;
+}
+/* .rightside{
+    margin-left: 25%;
+}
+.leftside{
+    margin-left: 30%;
+} */
+/* input[type=email]{
+    width: 90%;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 1px solid lavender;
+    border-radius: 2px;
+ }
+input[type=text]{
+    width: 90%;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 1px solid lavender;
+    border-radius: 2px;
+ }
+ button{
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 8px;
+    text-decoration: none;
+    width: 90%;
+ } */
+ 
